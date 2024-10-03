@@ -84,8 +84,7 @@ a:hover {
   outline: none;
   border-color: transparent;
 } */
+
 :focus {
-  outline: 2px solid;
-  outline-offset: 2px; 
-  border-color: initial; 
+  outline: 3px solid rgba(23, 171, 23, 0.8) !important;
 }
