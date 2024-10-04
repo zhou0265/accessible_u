@@ -80,9 +80,7 @@ a:hover {
  * Overrides browsers' visible focus indicator
  *
  */
-a:hover, a:focus, input:focus {
+:focus {
   outline: 3px solid rgba(23, 171, 23, 0.8); 
-  outline-offset: 2px; 
-  border-color: initial; 
 } 
 
