@@ -82,7 +82,5 @@ a:hover {
  */
 :focus {
   outline: 3px solid rgba(23, 171, 23, 0.8); /* focus outline color */
-  outline-offset: 2px; /* Optional: adds space between the outline and the element */
-  border-color: initial; /* Reset border color if needed */
 } 
 
