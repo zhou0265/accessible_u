@@ -76,17 +76,8 @@ a:hover {
   text-decoration: none;
 }
 
-/*
- * Overrides browsers' visible focus indicator
- *
- */
-/*
-*:focus {
-*  outline: 3px solid rgba(23, 171, 23, 0.8); /* focus outline color */
-} */
-a:hover, a:focus, input:focus {
-  outline: 3px solid;
-  border-color: #00FF00;
+:focus {
+  outline: 3px solid #00FF00; 
 }
 
 
