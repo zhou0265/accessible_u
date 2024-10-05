@@ -85,7 +85,7 @@ a:hover {
 *  outline: 3px solid rgba(23, 171, 23, 0.8); /* focus outline color */
 } */
 a:hover, a:focus, input:focus {
-  outline: none;
+  outline: 3px solid;
   border-color: #00FF00;
 }
 
